@@ -50,6 +50,8 @@
 [Releases](https://github.com/deepaltools/deepal-speaker-releases/releases/latest) и
 поставьте [программой установки](https://github.com/deepaltools/deepal-installer-releases) с компьютера.
 
+На прошивке **4.2 (S07 2026, «Laser»)** установка устроена иначе: ни магазин, ни программа установки с компьютера на ней пока не подходят. Напишите админу в [Telegram-канале](https://t.me/deepal_tools) — он подскажет, как поставить приложения на 4.2 Laser.
+
 ## Как проверить, что файл ваш
 
 Все приложения Deepal Tools подписаны одним ключом. Отпечаток сертификата:
